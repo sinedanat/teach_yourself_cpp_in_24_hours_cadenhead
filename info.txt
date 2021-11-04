@@ -1,0 +1,2 @@
+Teach Yourself C++ In 24 Hours. Cadenhead. 2016
+https://workbench.cadenhead.org/book/cpp-24-hours
