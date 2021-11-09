@@ -1,2 +1,42 @@
 Teach Yourself C++ In 24 Hours. Cadenhead. 2016
 https://workbench.cadenhead.org/book/cpp-24-hours
+
+Part I: Beginning C++
+Hour 1: Writing Your First Program
+Hour 2: Organizing the Parts of a Program
+Hour 3: Creating Variables and Constants
+Hour 4: Using Expressions, Statements, and Operators
+Hour 5: Calling Functions
+Hour 6: Controlling the Flow of a Program
+Hour 7: Storing Information in Arrays and Strings
+
+Part II: Classes
+Hour 8: Creating Basic Classes
+Hour 9: Moving into Advanced Classes
+
+Part III: Memory Management
+Hour 10: Creating Pointers
+Hour 11: Developing Advanced Pointers
+Hour 12: Creating References
+Hour 13: Developing Advanced References and Pointers
+
+Part IV: Advanced C++
+Hour 14: Calling Advanced Functions
+Hour 15: Using Operator Overloading
+Part V: Inheritance and Polymorphism
+Hour 16: Extending Classes with Inheritance
+Hour 17: Using Polymorphism and Derived Classes
+Hour 18: Making Use of Advanced Polymorphism
+Hour 19: Storing Information in Linked Lists
+
+Part VI: Special Topics
+Hour 20: Using Special Classes, Functions, and Pointers
+Hour 21: Using New Features of C++0x
+Hour 22: Employing Object-Oriented Analysis and Design
+Hour 23: Creating Templates
+Hour 24: Dealing with Exceptions and Error Handling
+
+Appendices
+Hour A: Binary and Hexadecimal
+Hour B: Glossary
+Hour C: This Book's Web Site
