@@ -2,6 +2,7 @@
 // rather than an enumerated data type as the breed.
 
 #include <iostream>
+#include <string>
 
 class Mammal
 {
